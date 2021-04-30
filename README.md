@@ -8,4 +8,4 @@ Desafio WA Project
 <h3 align="left">
    Para apoio aos endpoints acesse
 </h3>
-   <a href="https://localhost:44397/swagger/">🔗 swagger</a>
+   <a href="https://localhost:44397/swagger/">🔗 https://localhost:44397/swagger/</a>
