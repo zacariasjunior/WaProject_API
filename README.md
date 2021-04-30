@@ -1,6 +1,6 @@
-# WaProject_API
+# WaProject API
 Desafio WA Project 
--AAPI Rest tokens estático  
+-API Rest tokens estático  
 -c# .net core 
 -entity framework 
 -mysql
